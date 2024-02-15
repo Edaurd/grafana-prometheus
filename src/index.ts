@@ -14,3 +14,5 @@ export * from './result_transformer';
 export * from './tracking';
 export * from './types';
 export * from './variables';
+
+console.log("initialized from index.ts");
