@@ -11,8 +11,8 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "http://github.com/grafana/grafana.git",
-    "directory": "packages/grafana-prometheus"
+    "url": "https://github.com/Edaurd/grafana-prometheus.git",
+    "directory": "."
   },
   "main": "src/index.ts",
   "types": "src/index.ts",
